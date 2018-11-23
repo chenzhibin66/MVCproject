@@ -1,8 +1,8 @@
 **MVC开发模式设计的简单对数据库进行CRUD操作**
 
-![主界面](C:\Users\Administrator\Desktop\主界面.png)
+![](http://ww1.sinaimg.cn/large/005WjvZYly1fxia1tnpl0j30oz0c00sz.jpg)
 
-MVC开发主要分为三层结构：dao层，service层和Controll层![查询](C:\Users\Administrator\Desktop\查询.png)
+MVC开发主要分为三层结构：dao层，service层和Controll层![](http://ww1.sinaimg.cn/large/005WjvZYly1fxia2p3oc6j30ru0g40ti.jpg)
 
 简单模糊查询：
 
@@ -21,7 +21,7 @@ private void query(HttpServletRequest req, HttpServletResponse resp) throws Serv
 
 ```
 
-![注册](C:\Users\Administrator\Desktop\注册.png)
+![](http://ww1.sinaimg.cn/large/005WjvZYly1fxia3in0l4j30dl09tt8r.jpg)
 
 注册新用户：
 
@@ -42,7 +42,7 @@ private void add(HttpServletRequest req, HttpServletResponse resp) throws Servle
 }
 ```
 
-![修改](C:\Users\Administrator\Desktop\修改.png)
+![](http://ww1.sinaimg.cn/large/005WjvZYly1fxia3rbsccj30fq09cglr.jpg)
 
 修改用户信息：
 
@@ -79,4 +79,4 @@ private void updatedo(HttpServletRequest req, HttpServletResponse resp) throws S
 }
 ```
 
-![重名](C:\Users\Administrator\Desktop\重名.png)
+![](http://ww1.sinaimg.cn/large/005WjvZYly1fxia3z2pucj30f40b5aaa.jpg)
